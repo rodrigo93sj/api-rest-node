@@ -1,0 +1,7 @@
+{
+  "host": "smtp.domain.io",
+  "port": 2525,
+  "secure": false,
+  "user": "username@domain.com",
+  "pass": "password"
+}
